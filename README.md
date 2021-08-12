@@ -2,7 +2,7 @@
 
 ![image](https://user-images.githubusercontent.com/69841466/128144016-4080c5eb-76f2-4a3a-ae41-38ade23e9668.png)
 
-
+Our solution was to collect dataset from twitter , clean it , explore it , analyze it then building the model to deploy it .
 Our application Link : 
 
 ![image](https://user-images.githubusercontent.com/69841466/129260396-b57ecdc7-cebb-4c45-8c88-62f25d2a5904.png)
